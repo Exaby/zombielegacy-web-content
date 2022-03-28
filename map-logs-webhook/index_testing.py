@@ -23,9 +23,9 @@ def webhook():
 
 
 def changemap():
-    tmpmap = (a2s.info(serveraddress).map_name)
+    tmpmap = (a2s.info(serveraddress).player_count)
     time.sleep(8)
-    setwebhook = (tmpmap != (a2s.info(serveraddress).map_name))
+    setwebhook = (tmpmap != (a2s.info(serveraddress).player_count))
     while setwebhook:
         webhook()
         setwebhook = False
