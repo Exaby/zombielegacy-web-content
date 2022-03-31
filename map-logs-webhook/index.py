@@ -2,9 +2,9 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 import a2s
 import threading
 import time
-address = ("104.192.0.78")
-port = (27031)
-serveraddress = ("104.192.0.78", 27031)
+address = ("74.91.120.128")
+port = (27015)
+serveraddress = ("74.91.120.128", 27015)
 
 
 def webhook():
