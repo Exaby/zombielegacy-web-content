@@ -1,0 +1,10 @@
+{
+	"zl_zs": {
+		"IP": "74.91.120.128:27015",
+		"Map": "zs_movingin_v2",
+		"MaxPlayers": 50,
+		"PlayerCount": 13,
+		"ServerName": "Zombie Legacy",
+		 "ServerShortName": "zl_zs"
+	}
+}
