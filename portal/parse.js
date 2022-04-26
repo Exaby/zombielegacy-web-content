@@ -15,5 +15,5 @@ xmlhttp.onload = function() {
   //document.getElementById("zl_zs-mapimage").onclick = location.href = ("steam://connect/" + servers.zl_zs.IP)
   document.getElementById("zl_zs-mapimage").style.backgroundImage = "url('https://cdn.spco.xyz/zlzs/map-images/" + servers.zl_zs.Map + ".jpg')";
 };
-xmlhttp.open("GET", "http://127.0.0.1:5500/servers.json");
+xmlhttp.open("GET", "https://zlzs.spco.xyz/api/servers.json");
 xmlhttp.send();
