@@ -1,0 +1,130 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  font-family: courier new, Courier, monospace;
+  background: #290000;
+  background-image: linear-gradient(
+    155deg,
+    rgb(33, 0, 46) 0%,
+    rgb(20, 0, 27) 100%
+  );
+}
+.zl-topnav {
+  overflow: hidden;
+  background: #290000;
+  background: linear-gradient(
+    355deg,
+    rgb(61, 0, 175) 0%,
+    rgb(87, 0, 61) 50%,
+    rgb(85, 41, 0) 100%
+  );
+  box-shadow: 0 8px 8px -4px #14001b;
+  font-size: 24x;
+}
+.zl-topnav a {
+  margin-left: 22px;
+  text-shadow: 2px 2px #14001b;
+  font-family: courier new, Courier, monospace;
+  float: left;
+  color: #fff;
+  text-shadow: 2px 2px #79c9ff18;
+  text-align: center;
+  padding: 28px 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.zl-topnav a:hover {
+  text-shadow: 2px 2px #14001b;
+  font-family: courier new, Courier, monospace;
+  color: #b2d8f0;
+  text-shadow: 2px 2px #223b4b18;
+}
+.players-max {
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 500;
+  margin-top: 30px;
+  text-align: center;
+  color: #fff;
+}
+.zl_zs-container {
+  text-shadow: 2px 2px #14001b;
+  color: #fff;
+  text-decoration: none;
+  margin: 0;
+  margin-top: 60px;
+  flex-wrap: wrap;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.zl_zs-mapimage {
+  box-shadow: 0 8px 8px -4px #000;
+  height: 200px;
+  width: 500px;
+  object-fit: none;
+  border-radius: 7px;
+}
+.zl_zs-steam {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+.zl_zs-steam:link {
+  text-decoration: none;
+}
+.zl_zs-steam:visited {
+  text-decoration: none;
+}
+.zl_zs-steam:hover {
+  text-decoration: none;
+}
+.zl_zs-steam:active {
+  text-decoration: none;
+}
+.zl_zs-name {
+  color: #fff;
+  text-decoration: none;
+  font-size: 40px;
+  margin-top: 8px;
+  margin-left: 10px;
+  text-align: left;
+  color: #fff;
+  font-size: 55px;
+}
+.zl_zs-name:link {
+  text-decoration: none;
+}
+.zl_zs-map {
+  color: #fff;
+  text-decoration: none;
+  font-size: 19px;
+  margin-top: 3px;
+  margin-left: 10px;
+  text-align: left;
+  color: #fff;
+  font-size: 22px;
+}
+.zl_zs-map:link {
+  text-decoration: none;
+}
+.zl_zs-players {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-top: 7px;
+  text-align: left;
+  color: #fff;
+  font-size: 20px;
+}
+.zl_zs-players:link {
+  text-decoration: none;
+}

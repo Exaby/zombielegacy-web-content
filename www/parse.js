@@ -1,0 +1,1 @@
+const xmlhttp=new XMLHttpRequest();xmlhttp.onload=function(){var servers=JSON.parse(this.responseText);document.title="Zombie Legacy "+servers.zl_zs.PlayerCount+" Online";};xmlhttp.open("GET","https://zlzs.spco.xyz/api/servers.json");xmlhttp.send();
