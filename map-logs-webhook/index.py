@@ -17,7 +17,7 @@ def webhook():
     embed = DiscordEmbed(title=('Now playing ' + str(mapname) + ' with ' + str(playercount) + ' players'),
                          description=('steam://connect/' + str(address) + ':' + str(port)), color='03b2f8')
     embed.set_image(
-        url=('https://files.sunrust.org/map_images/' + str(mapname) + '.jpg'))
+        url=('https://cdn.spco.xyz/zlzs/map-images/' + str(mapname) + '.jpg'))
     laststand.add_embed(embed)
     response = laststand.execute()
 
