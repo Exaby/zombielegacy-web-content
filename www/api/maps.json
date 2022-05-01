@@ -1,65 +1,179 @@
 [
-  {
-    "name": "zs_abandoned_mall_v10"
-  },
-  {
-    "name": "zs_abandoned_stripmall_v2a"
-  },
-  {
-    "name": "zs_abstractum_v1"
-  },
-  {
-    "name": "zs_adrift_v2"
-  },
-  {
-    "name": "zs_alexg_metro_v4"
-  },
-  {
-    "name": "zs_alexg_motel_v4"
-  },
-  {
-    "name": "zs_chaste_part3_v1"
-  },
-  {
-    "name": "zs_coast_of_konigsberg_v5b"
-  },
-  {
-    "name": "zs_deep_sewers_v3e"
-  },
-  {
-    "name": "zs_dl_powercliff"
-  },
-  {
-    "name": "zs_heat"
-  },
-  {
-    "name": "zs_insurance_new_v4"
-  },
-  {
-    "name": "zs_lunar_kingdom_v1a"
-  },
-  {
-    "name": "zs_movingin_v2"
-  },
-  {
-    "name": "zs_muhosransk_v3"
-  },
-  {
-    "name": "zs_overtime"
-  },
-  {
-    "name": "zs_palace_v3_edit1"
-  },
-  {
-    "name": "zs_pathogen_v3"
-  },
-  {
-    "name": "zs_preppertown_v6"
-  },
-  {
-    "name": "zs_sinister_school_v2a"
-  },
-  {
-    "name": "zs_under_the_waves_v2c"
-  }
+{
+  "name":"zs_abandoned_mall_v10"
+},
+{
+  "name":"zs_abandoned_stripmall_v2a"
+},
+{
+  "name":"zs_abandoned_subway"
+},
+{
+  "name":"zs_abstractum_v1"
+},
+{
+  "name":"zs_adrift_v2"
+},
+{
+  "name":"zs_alexg_metro_v4"
+},
+{
+  "name":"zs_alexg_motel_v4"
+},
+{
+  "name":"zs_antarctic_hospital"
+},
+{
+  "name":"zs_asylum_reborn_v4"
+},
+{
+  "name":"zs_castle_defense_v3a"
+},
+{
+  "name":"zs_castle_keep_snowy_v2"
+},
+{
+  "name":"zs_chaste_part3_v1"
+},
+{
+  "name":"zs_coast_of_konigsberg_v5b"
+},
+{
+  "name":"zs_comfy_v1a"
+},
+{
+  "name":"zs_deep_sewers_v3e"
+},
+{
+  "name":"zs_deus_ex_unatco_v3"
+},
+{
+  "name":"zs_dryfield_2018"
+},
+{
+  "name":"zs_dl_powercliff"
+},
+{
+  "name":"zs_duke3d_v2"
+},
+{
+  "name":"zs_fear_nuclear"
+},
+{
+  "name":"zs_forlornbunker_v2"
+},
+{
+  "name":"zs_frozen_v6"
+},
+{
+  "name":"zs_harvest_v5d"
+},
+{
+  "name":"zs_heat"
+},
+{
+  "name":"zs_hotline_miami_v3"
+},
+{
+  "name":"zs_infected_lab_v2"
+},
+{
+  "name":"zs_insurance_new_v4"
+},
+{
+  "name":"zs_krusty_krab_large_v5"
+},
+{
+  "name":"zs_lockup_v2"
+},
+{
+  "name":"zs_lumbridge_v2"
+},
+{
+  "name":"zs_lunar_kingdom_v1a"
+},
+{
+  "name":"zs_movingin_v2"
+},
+{
+  "name":"zs_muhosransk_v3"
+},
+{
+  "name":"zs_nastierhouse_final_v3"
+},
+{
+  "name":"zs_nastiesthouse_v4"
+},
+{
+  "name":"zs_overtime"
+},
+{
+  "name":"zs_palace_v3_edit1"
+},
+{
+  "name":"zs_pathogen_v3"
+},
+{
+  "name":"zs_pharmacy_v2"
+},
+{
+  "name":"zs_plague_v4"
+},
+{
+  "name":"zs_preppertown_v6.bsp"
+},
+{
+  "name":"zs_ravenholm_v7"
+},
+{
+  "name":"zs_retrodiner_v4"
+},
+{
+  "name":"zs_roadside_motel"
+},
+{
+  "name":"zs_ruraldepartment_v2"
+},
+{
+  "name":"zs_ryan_valley"
+},
+{
+  "name":"zs_scrapvile_v2"
+},
+{
+  "name":"zs_sinister_school_v2a"
+},
+{
+  "name":"zs_smallavenue_v2"
+},
+{
+  "name":"zs_snowedin_v4"
+},
+{
+  "name":"zs_snowycastle_v5"
+},
+{
+  "name":"zs_surrounded_v2"
+},
+{
+  "name":"zs_swimming_pool_v7"
+},
+{
+  "name":"zs_the_pub_v9"
+},
+{
+  "name":"zs_under_the_waves_v2c"
+},
+{
+  "name":"zs_urban_strain_v6"
+},
+{
+  "name":"zs_winter_solstice_v2"
+},
+{
+  "name":"zs_zetta_district_13_v2"
+},
+{
+  "name":"zs_zhighschool_v2"
+}
 ]
