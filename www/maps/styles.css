@@ -11,6 +11,8 @@ body {
   );
 }
 .zl-topnav {
+  min-width: 100%;
+  position: fixed;
   overflow: hidden;
   background: #290000;
   background: linear-gradient(
@@ -90,7 +92,9 @@ body {
   display: flex;
   justify-content: center;
 }
-
+.maps-align-container {
+  padding-top: 80px;
+}
 .map-container {
   display: inline-block;
   gap: .25rem;
@@ -110,8 +114,8 @@ body {
 }
  .maps-map-name {
   font-family: courier new, Courier, monospace;
-  text-shadow: 1.5px 1.5px #560e282c;
-  color: #dbdbdb; 
+  text-shadow: 1.5px 1.5px #14001b;
+  color: #f6f8fb; 
   text-decoration: none;
   font-size: 19px;
   margin-top: 6px;

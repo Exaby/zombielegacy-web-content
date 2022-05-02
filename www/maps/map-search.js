@@ -13,7 +13,7 @@ searchMap.addEventListener("input", e => {
   })
 })
 
-fetch("/api/maps.json")
+fetch("https://zlzs.spco.xyz/api/maps.json")
   .then(res => res.json())
   .then(data => {
     maps = data.map(map => {
